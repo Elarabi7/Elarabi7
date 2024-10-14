@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600" height="300"/>
 </div>
 
 - 🌟 I am a **Frontend Developer** specializing in building responsive and engaging web applications.
