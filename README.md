@@ -87,6 +87,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Elarabi7/Elarabi7/output/snake.svg" alt="Snake animation" />
 
 ###
