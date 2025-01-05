@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="320" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250105T000409Z&X-Amz-Expires=300&X-Amz-Signature=298b58691d3ac86c470758cce8805d7792da78c9421d202abcbd30c12700712c&X-Amz-SignedHeaders=host"  />
+  <img height="full" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250105T000409Z&X-Amz-Expires=300&X-Amz-Signature=298b58691d3ac86c470758cce8805d7792da78c9421d202abcbd30c12700712c&X-Amz-SignedHeaders=host"  />
 </div>
 
 ###
